@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit 
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # How-To-Heart-Rate-with-Body-Sensor
 In this app, real-time heart rate monitoring was implemented by using Huawei's Sensor Kit. The sensor continuously fetches the user's heart rate data and displays it on the screen in real-time. By integrating the Sensor Service Kit, the app listens for heart rate sensor events, processing them as they occur.
